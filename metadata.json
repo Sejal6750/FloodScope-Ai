@@ -1,0 +1,8 @@
+{
+  "name": "FloodScope AI",
+  "description": "Multimodal satellite radar and optical intelligence platform for rapid flood extent mapping, infrastructure damage triage, and settlement accessibility analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
